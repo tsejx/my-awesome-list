@@ -30,106 +30,107 @@ JavaScript/Node.js
 - PhotoShop/Paint.net/Fireworks/GIMP/Sketch
 
 开发工具
-编辑器和IDE
-VIM/Sublime Text2
-Notepad++/EditPlus
-WebStorm
-Emacs EmacsWiki
-Brackets
-Atom
-Lime Text
-Light Table
-Codebox
-TextMate
-Neovim
-Komodo IDE / Edit
-Eclipse
-Visual Studio/Visual Studio Code
-NetBeans
-Cloud9 IDE
-HBuilder
-Nuclide
+
+ - 编辑器和IDE
+ - VIM/Sublime Text2
+ - Notepad++/EditPlus
+ - WebStorm
+ - Emacs EmacsWiki
+ - Brackets
+ - Atom
+ - Lime Text
+ - Light Table
+ - Codebox
+ - TextMate
+ - Neovim
+ - Komodo IDE / Edit
+ - Eclipse
+ - Visual Studio/Visual Studio Code
+ - NetBeans
+ - Cloud9 IDE
+ - HBuilder
+ - Nuclide
 
 调试工具
-Firebug/Firecookie
-YSlow
-IEDeveloperToolbar/IETester
-Fiddler
-Chrome Dev Tools
-Dragonfly
-DebugBar
-Venkman
+ - Firebug/Firecookie
+ - YSlow
+ - IEDeveloperToolbar/IETester
+ - Fiddler
+ - Chrome Dev Tools
+ - Dragonfly
+ - DebugBar
+ - Venkman
 
 版本管理
-Git/SVN/Mercurial
-Github/GitLab/Bitbucket/Gitorious/GNU Savannah/Launchpad/SourceForge/TeamForge
+ - Git/SVN/Mercurial
+ - Github/GitLab/Bitbucket/Gitorious/GNU Savannah/Launchpad/SourceForge/TeamForge
 
 代码质量
-Coding style
-JSLint/JSHint/jscs/ESLint
-CSSLint
-Markup Validation Service
-HTML Validators
+ - Coding style
+ - JSLint/JSHint/jscs/ESLint
+ - CSSLint
+ - Markup Validation Service
+ - HTML Validators
 
 单元测试
-QUnit/Jasmine
-Mocha/Should/Chai/Expect
-Unit JS
+ - QUnit/Jasmine
+ - Mocha/Should/Chai/Expect
+ - Unit JS
 
 自动化测试
-WebDriver/Protractor/Karma Runner/Sahi
-phantomjs
-SourceLabs/BrowserStack
+ - WebDriver/Protractor/Karma Runner/Sahi
+ - phantomjs
+ - SourceLabs/BrowserStack
 
 前端库/框架
-jQuery/Underscore/Mootools/Prototype.js
-YUI3/Dojo/ExtJS/KISSY
-Backbone/KnockoutJS/Emberjs
-AngularJS
-Batarang
-Bootstrap
-Semantic UI
-Juice UI
-Web Atoms
-Polymer
-Dhtmlx
-qooxdoo
-React
-Brick
-vue.js
+ - jQuery/Underscore/Mootools/Prototype.js
+ - YUI3/Dojo/ExtJS/KISSY
+ - Backbone/KnockoutJS/Emberjs
+ - AngularJS
+ - Batarang
+ - Bootstrap
+ - Semantic UI
+ - Juice UI
+ - Web Atoms
+ - Polymer
+ - Dhtmlx
+ - qooxdoo
+ - React
+ - Brick
+ - vue.js
 
 前端标准/规范
-HTTP/1.1: RFCs 7230-7235
-HTTP/2
-ECMAScript3/5
-ECMAScript6
-W3C: DOM/BOM/XHTML/XML/JSON/JSONP/...
-CommonJS Modules/AMD
-HTML5/CSS3
-Semantic Web
-MicroData
-RDFa
-Web Accessibility
-WCAG
-Role Attribute
-WAI-ARIA
+ - HTTP/1.1: RFCs 7230-7235
+ - HTTP/2
+ - ECMAScript3/5
+ - ECMAScript6
+ - W3C: DOM/BOM/XHTML/XML/JSON/JSONP/...
+ - CommonJS Modules/AMD
+ - HTML5/CSS3
+ - Semantic Web
+ - MicroData
+ - RDFa
+ - Web Accessibility
+ - WCAG
+ - Role Attribute
+ - WAI-ARIA
 
 性能
-JSPerf
-YSlow 35 rules
-PageSpeed
-HTTPWatch
-DynaTrace's Ajax
-高性能JavaScript
-SEO
-编程知识储备
-数据结构
-OOP/AOP
-原型链/作用域链
-闭包
-编程范型
-设计模式
-Javascript Tips
+ - JSPerf
+ - YSlow 35 rules
+ - PageSpeed
+ - HTTPWatch
+ - DynaTrace's Ajax
+ - 高性能JavaScript
+ - SEO
+ - 编程知识储备
+ - 数据结构
+ - OOP/AOP
+ - 原型链/作用域链
+ - 闭包
+ - 编程范型
+ - 设计模式
+ - Javascript Tips
 
 部署流程
 压缩合并
