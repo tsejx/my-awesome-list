@@ -245,6 +245,7 @@ CSS
  - CSS权威指南 （第3版）★★
  - 精通CSS★★★
  - HTML & CSS设计与构建网站★
+ 
 JavaScript
  - JavaScript & jQuery交互式Web前端开发★
  - JavaScript DOM编程艺术 （第2版）★
@@ -260,13 +261,16 @@ JavaScript
  - JavaScript模式★★★
  - JavaScript设计模式★★★★
  - 基于MVC的JavaScript Web富应用开发★★★
+ 
 性能实践
  - Web性能实践日志★★★
  - Web性能权威指南★★★
+ 
 版本控制工具
  - 版本控制之道 (git)★★
  - Pro Git★★★
  - Git权威指南★★★★
+ 
 后端书籍推荐
  - Linux管理
  - Linux 系统管理技术手册
@@ -281,10 +285,12 @@ JavaScript
  - Unix环境高级编程
  - Unix编程艺术
  - The Linux Programming Interface
+ 
 程序员的自我修养
  - 深入理解Linux内核
  - Unix网络编程
  - TCP/IP高级编程
+ 
 C/C++
  - Linux C编程一站式学习
  - C和指针
