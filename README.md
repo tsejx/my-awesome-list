@@ -1,7 +1,17 @@
 # my-web-career
+
 ## 编辑器
+
 - Sublime Text3
-## language
--[x] HTML
--[ ] CSS
--[ ] JavaScript
+- Dreamweaver
+
+## web编程语言
+
+- [x] HTML
+- [x] CSS
+- [x] JavaScript
+
+## 其他必备
+
+- [x] git
+
