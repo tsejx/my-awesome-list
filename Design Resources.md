@@ -2,14 +2,6 @@
 
 A list of tools & resources for designers.
 
-----
-
-*最近半年初入设计圈，收集了不少 bookmark 想在年底来一个总结。
-于是创建了这个 Resource List 项目，旨在让更多的设计师找资源变得有章可循。
-先更新一部分，大概还有200多个还没放过来。。（吐血）
-所以，欢迎大家也推荐自己收藏的资源，加入这个项目并一起持续更新么么哒：）*
-
-
 # Basic Material
 Most of the time you don't need to draw your own icons, or take your own photos. You just find free stuff online and combine them to create your design. The links below will help you get started:
 
@@ -219,17 +211,17 @@ The easiest way to build a color pallete is by sampling colors from an existing 
 + 用户体验要素：以用户为中心的Web设计
 + About Face 3 交互设计精髓
 + 交互设计沉思录
-用户体验面面观 
-赢在用户
-设计沟通十器
-简约至上 
-交互设计之路
-设计心理学
-写给大家看的设计书(第3版)
-胜于言传：网站内容制胜宝典
-设计之下
-瞬间之美：web界面设计如何让用户心动
-破茧成蝶：用户体验设计师的成长之路
++ 用户体验面面观 
++ 赢在用户
++ 设计沟通十器
++ 简约至上 
++ 交互设计之路
++ 设计心理学
++ 写给大家看的设计书(第3版)
++ 胜于言传：网站内容制胜宝典
++ 设计之下
++ 瞬间之美：web界面设计如何让用户心动
++ 破茧成蝶：用户体验设计师的成长之路
 
 ###中级
 Designing Interactions
