@@ -5,6 +5,7 @@
 
 - [W3schoold][1] 领先的 Web 技术教程
 - [Mozilla Developer Network][2] Mozilla 开发者网络（MDN）是一个完整的学习平台，你可以在这里深入学习网络技术以及能够驱动网络的软件
+- [ 易百教程][13]易百教程是因特网上最大的 IT技术学习和开发者资源，其中包括全面的教程、完善的参考手册以及庞大的代码库。
 
 ## Other tutorials
 
@@ -41,3 +42,4 @@
   [10]: https://tinypng.com/
   [11]: http://www.uisdc.com/
   [12]: http://www.peise.net/
+  [13]: http://www.yiibai.com/
