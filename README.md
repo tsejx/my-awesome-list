@@ -3,7 +3,6 @@
 ## 编辑器
 
 - Sublime Text3
-- Dreamweaver
 
 ## web编程语言
 
@@ -11,7 +10,9 @@
 - [x] CSS
 - [x] JavaScript
 
-## 其他必备
+## 版本管理
 
 - [x] git
+
+
 
