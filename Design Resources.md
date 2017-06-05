@@ -1,4 +1,4 @@
-# design-resource
+# Design Resource
 
 A list of tools & resources for designers.
 
@@ -224,93 +224,95 @@ The easiest way to build a color pallete is by sampling colors from an existing 
 + 破茧成蝶：用户体验设计师的成长之路
 
 ###中级
-Designing Interactions
-字体传奇
-文字设计原理
-文字设计基础教程
-版式设计原理★
-超越平凡的平面设计
-细节决定交互设计的成败★
-简单法则★
-网站交互设计模式
-UCD火花集
-赢在用户
-用户体验的要素★
-移动设备交互设计
-锦绣蓝图：怎样规划令人流连忘返的网站
-自然用户界面设计
-设计人机界面
-web表单设计：点石成金的艺术★
-Tapworthy: Designing Great iPhone App
-移动应用的设计与开发
-Mobile Design For iPhone And iPad
-Mobile Design and Development
-用户体验草图设计
-简约至上★
-触动人心
-认知与设计★
-文案训练手册★
-设计师要懂心理学
-微交互
-Responsive Web Design
-至关重要的设计
-Killer UX Design
-The UX Book
-Design is A Job
-移动互联：用户体验设计指南
-贴心设计：打造高可用性的移动产品
++ Designing Interactions
++ 字体传奇
++ 文字设计原理
++ 文字设计基础教程
++ 版式设计原理★
++ 超越平凡的平面设计
++ 细节决定交互设计的成败★
++ 简单法则★
++ 网站交互设计模式
++ UCD火花集
++ 赢在用户
++ 用户体验的要素★
++ 移动设备交互设计
++ 锦绣蓝图：怎样规划令人流连忘返的网站
++ 自然用户界面设计
++ 设计人机界面
++ web表单设计：点石成金的艺术★
++ Tapworthy: Designing Great iPhone App
++ 移动应用的设计与开发
++ Mobile Design For iPhone And iPad
++ Mobile Design and Development
++ 用户体验草图设计
++ 简约至上★
++ 触动人心
++ 认知与设计★
++ 文案训练手册★
++ 设计师要懂心理学
++ 微交互
++ Responsive Web Design
++ 至关重要的设计
++ Killer UX Design
++ The UX Book
++ Design is A Job
++ 移动互联：用户体验设计指南
++ 贴心设计：打造高可用性的移动产品
 
 ###高级
-交互设计—-超越人机交互
-软件观念革命
-A Practical Guide to Information Architecture
-Designing for Emotion
-项目百态★
-当用户体验设计遇上敏捷
-Web导航设计
-Web信息架构—-设计大型网站★（移动应用的设计成熟度还不如网页设计，想深入学习交互可以从网页设计中借鉴经验）
-Web界面设计★
-精通Web Analytics2.0★
-交互设计沉思录
-用户故事与敏捷方法
-用户体验度量
-社会心理学
-Storytelling for User Experience
-The Elements of Content Strategy
-Lean UX★
-Handbook of Usability Testing
-Quantifying the User Experience
-Designing the Conversation
-Lean Analytics
-Search Analytics for Your Site
-Understanding Your Users★
-Sketching Drawing Techniques for Product Designers
-Card Sorting Designing Usable Categories
-Service Design★
++ 交互设计—-超越人机交互
++ 软件观念革命
++ A Practical Guide to Information Architecture
++ Designing for Emotion
++ 项目百态★
++ 当用户体验设计遇上敏捷
++ Web导航设计
++ Web信息架构—-设计大型网站★（移动应用的设计成熟度还不如网页设计，想深入学习交互可以从网页设计中借鉴经验）
++ Web界面设计★
++ 精通Web Analytics2.0★
++ 交互设计沉思录
++ 用户故事与敏捷方法
++ 用户体验度量
++ 社会心理学
++ Storytelling for User Experience
++ The Elements of Content Strategy
++ Lean UX★
++ Handbook of Usability Testing
++ Quantifying the User Experience
++ Designing the Conversation
++ Lean Analytics
++ Search Analytics for Your Site
++ Understanding Your Users★
++ Sketching Drawing Techniques for Product Designers
++ Card Sorting Designing Usable Categories
++ Service Design★
 
 
 字体设计
-《商业字体设计》(方茜)（一定要看！！）
-《好字体》(向玫玫)
-《文字设计的原理》([日]伊达千代，内藤孝彦)
++ 《商业字体设计》(方茜)（一定要看！！）
++ 《好字体》(向玫玫)
++ 《文字设计的原理》([日]伊达千代，内藤孝彦)
+
 排版
-《栅格排版法》
-《版面设计的原理》([日]伊达千代，内藤孝彦)
-《超越平凡的平面设计 版式设计原理与应用》([美]麦克韦德（John McWade）
-《形式感+：网页视觉设计创意拓展与快速表现》(晋小彦)（重点推荐）
-《在你身边，为你设计：腾讯的用户体验设计之道》
++ 《栅格排版法》
++ 《版面设计的原理》([日]伊达千代，内藤孝彦)
++ 《超越平凡的平面设计 版式设计原理与应用》([美]麦克韦德（John McWade）
++ 《形式感+：网页视觉设计创意拓展与快速表现》(晋小彦)（重点推荐）
++ 《在你身边，为你设计：腾讯的用户体验设计之道》
+
 官方设计指南
-iOS Human Interface Guidelines：Designing for iOS 7★
-iPhone的设计指南最为经典，当时认真翻译完设计指南，学习别人的思考方式，对我的设计和分析思路有重要的影响
-Safari Web Content Guide
-Safari Web Content Guide
-material design
-Safari Web Content Guide
-Windows Phone 7 界面设计与交互指南Windows 8 UX Guidelines for Windows Store apps（操作系统的设计指南最好结合实际项目阅读，如没有并不准备设计win8平台，可以主要阅读设计理念和操作方式等重要章节）
-Android User Interface Guidelines★
-Touch Gesture Reference Guide
-Apple Human Interface Guidelines
-Windows 用户体验交互设计规范★（微软的设计指南最为详细，《About Face 交互设计精髓》也是根据office的项目经验汇总而成，几乎包揽了所有界面控件设计方法，虽然是桌面操作系统，但值得所有界面设计师学习）
-Google TV Design Patterns
-Google Glass Guidelines
-Android Wear Guidelines
++ iOS Human Interface Guidelines：Designing for iOS 7★
++ iPhone的设计指南最为经典，当时认真翻译完设计指南，学习别人的思考方式，对我的设计和分析思路有重要的影响
++ Safari Web Content Guide
++ Safari Web Content Guide
++ material design
++ Safari Web Content Guide
++ Windows Phone 7 界面设计与交互指南Windows 8 UX Guidelines for Windows Store apps（操作系统的设计指南最好结合实际项目阅读，如没有并不准备设计win8平台，可以主要阅读设计理念和操作方式等重要章节）
++ Android User Interface Guidelines★
++ Touch Gesture Reference Guide
++ Apple Human Interface Guidelines
++ Windows 用户体验交互设计规范★（微软的设计指南最为详细，《About Face 交互设计精髓》也是根据office的项目经验汇总而成，几乎包揽了所有界面控件设计方法，虽然是桌面操作系统，但值得所有界面设计师学习）
++ Google TV Design Patterns
++ Google Glass Guidelines
++ Android Wear Guidelines
