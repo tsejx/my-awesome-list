@@ -33,8 +33,6 @@
  - [杜瑶][15] 杜瑶的世界
  
  
-
-
   [1]: http://www.w3school.com.cn/
   [2]: https://developer.mozilla.org/zh-CN/docs/Web/JavaScript
   [3]: http://www.miaov.com/
@@ -48,6 +46,6 @@
   [11]: http://www.uisdc.com/
   [12]: http://www.peise.net/
   [13]: http://www.yiibai.com/
-  [14]: https://buluo.qq.com/p/barindex.html?bid=346232
+  [14]: https://buluo.qq.com/p/barindex.html?bid=346232  
   [15]: http://www.doyoe.com/
   [16]: http://www.runoob.com/
