@@ -85,3 +85,37 @@ https://github.com/geekcompany/ResumeSample
 
 - remy / nodemon
 https://github.com/remy/nodemon
+
+# Node.js相关
+
+http://nodeframework.com/ 专门收集node.js的web框架的网站。其项目同样均托管在github上。
+
+[N-blog](https://github.com/nswbmw/N-blog) 《一起学 Node.js》
+
+nodeclub 使用 Node.js 和 MongoDB 开发的社区系统。star:3000
+
+N-chat 使用 Express + Socket.IO 搭建的多人聊天室 。star:300
+
+N-blog 使用 Express + MongoDB 搭建多人博客。star:1800
+
+node-inspector 基于Blink开发者工具的Node.js调试器。star:7000
+
+node-lessons：Node.js包教不包会。star:2.5K
+
+nodePPT 使用nodejs写的网络幻灯片。可能是迄今为止最好的网页版PPT。star:1.6K view demo
+
+hexo 一款快捷，简单，强大的博客框架，基于Nodejs。star:5.2K
+
+koa 下一代Node.js Web 框架。由 Express 团队设计。star:6.3K
+
+awesome-nodejs 关于Nodejs 包和资源的收集。star:7K
+
+connect Node平台的中间件框架。Express就是基于Connect开发的。star:5.6K（6.29更新）
+
+n node版本管理，tj大神所写。star:2.7K
+
+nvm node版本管理，通过bash脚本来管理。star:7.5K
+
+nodemon这个库是专门调试时候使用的，它会自动检测 node.js 代码的改动，然后帮你自动重启应用。star:7K+。（2.24.16）
+
+supertestAPI使用流利的API测试node.js http 服务器。3.1K+

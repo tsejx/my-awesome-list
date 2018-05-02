@@ -2,6 +2,12 @@
 
 A list of tools & resources for designers.
 
+## 综合资源
+
+[awesome-design-cn](https://github.com/jobbole/awesome-css-cn)  设计师资源大全，包含：ICON图标、Logo设计、PhotoShop插件、交互设计工具、流程图、线框图/原型图、设计博客等
+
+
+
 # Basic Material
 Most of the time you don't need to draw your own icons, or take your own photos. You just find free stuff online and combine them to create your design. The links below will help you get started:
 
@@ -109,7 +115,7 @@ The easiest way to build a color pallete is by sampling colors from an existing 
 + [Android 设计模式](http://www.android-app-patterns.com/)
 
 
-  
+
 ## Motion Design Patterns
 
 + [动效体验](http://www.michaelvillar.com/motion)
@@ -121,7 +127,6 @@ The easiest way to build a color pallete is by sampling colors from an existing 
 + [够专业！有魅力的实体模型素材精选](http://www.shejidaren.com/fresh-mockup-psd.html)
 
 ## Prototype
-
 
 -------------
 #Design Tools
@@ -156,7 +161,7 @@ The easiest way to build a color pallete is by sampling colors from an existing 
 ### Sketch Plug-in
 + https://github.com/utom/sketch-measure
 + https://github.com/getflourish/Sketch-Style-Inventory
-+ 
++ ​
 
 ## Photoshop
 
