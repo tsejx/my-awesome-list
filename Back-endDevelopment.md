@@ -1,4 +1,4 @@
-﻿# Github My Star Collection
+# Github My Star Collection
 
 ## CSS 插件/预处理器等相关类别
 
@@ -60,11 +60,8 @@ https://github.com/jobbole/jquery-tips-everyone-should-know
 ## 优秀个人Github
 
 - wteam-xq / testDemo 前端知识点测试工程集
-https://github.com/wteam-xq/testDemo
-<br>
-- fouber / blog UC张云龙Github的blog
-https://github.com/fouber/blog
-<br>
+  https://github.com/wteam-xq/testDemo
+  <br>
 
 ## 优秀项目
 
